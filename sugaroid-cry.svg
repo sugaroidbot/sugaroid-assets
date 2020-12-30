@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg46543"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="sugaroid-cry.svg">
+  <defs
+     id="defs46537" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="177.98648"
+     inkscape:cy="307.65764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata46540">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       r="60.789185"
+       cy="63.610634"
+       cx="64.076805"
+       id="path826-4-0-8-3-2-8-5"
+       style="fill:#ff004b;fill-opacity:1;stroke-width:0.178837" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       id="g1002-7-6-8-8-1-0"
+       transform="matrix(0.67591456,0,0,0.67591456,-148.08538,-12.215552)">
+      <circle
+         style="fill:#acac00;fill-opacity:0;stroke-width:0.275591"
+         id="path826-3-46-8-6-5-5-7-5"
+         cx="313.67911"
+         cy="112.18314"
+         r="93.677971"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <circle
+         style="fill:#0f3000;fill-opacity:0;stroke-width:0.275591"
+         id="path826-3-4-3-4-5-8-1-9"
+         cx="314.45605"
+         cy="112.44772"
+         r="93.677971"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 311.64137,52.260417 c -34.784,0.464848 -73.94392,56.493923 -57.45238,87.123513 18.69522,34.72246 100.07698,34.96918 118.30654,0 16.37519,-31.41198 -25.43333,-87.596872 -60.85416,-87.123513 z"
+         id="path894-8-5-4-3-8-6-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="aaaa" />
+      <path
+         style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.238023px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 311.37627,52.260212 c -30.2398,0.432739 -64.28385,52.591648 -49.94677,81.105518 16.25286,32.32403 87.00288,32.5537 102.85092,0 14.23593,-29.24222 -22.11071,-81.54618 -52.90415,-81.105518 z"
+         id="path894-80-6-8-9-8-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="aaaa" />
+      <circle
+         style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562"
+         id="path896-1-25-3-7-4-4-9"
+         cx="285.27753"
+         cy="125.68229"
+         r="15.024553" />
+      <circle
+         style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         id="path896-12-2-5-4-3-8"
+         cx="285.27753"
+         cy="125.68229"
+         r="11.055803" />
+      <circle
+         style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562"
+         id="path896-1-2-3-2-7-2-1-1"
+         cx="340.84003"
+         cy="125.41772"
+         r="15.024553" />
+      <circle
+         style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         id="path896-4-0-9-4-4-4-3"
+         cx="340.46204"
+         cy="125.68229"
+         r="11.055803" />
+    </g>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1046-9-3-5-5-4-5"
+       d="m 82.397457,77.011016 c 2.63757,-1.3e-4 4.77574,-2.13828 4.77581,-4.775901 0.45034,-1.889749 1.93927,-1.786639 2.48944,-1.811459 1.5257,0 2.76261,1.236779 2.76251,2.762559 -5.3e-4,0.01101 -0.002,0.02241 -0.004,0.0337 l 2.48727,0.16206 -1.53547,-5.238729 -6.6843,-7.94866 -13.006821,0.18052 -5.690632,14.542648 4.20297,-0.682818 c -0.0222,-0.142491 -0.0338,-0.28652 -0.0346,-0.43072 5e-5,-1.596051 1.29394,-2.889851 2.89001,-2.889851 1.090001,0 2.087152,0.613532 2.578801,1.58632 0.140761,2.53002 2.232842,4.509731 4.766752,4.510831 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.45298" />
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path1046-9-3-2-2-9-7-3"
+       d="m 44.791494,77.646995 c 2.637581,-9e-5 4.77574,-2.138259 4.775822,-4.77584 0.450318,-1.8898 1.939247,-1.786628 2.489419,-1.811459 1.525738,-6.1e-5 2.762578,1.23685 2.762509,2.76257 -5.29e-4,0.01101 -0.0021,0.02241 -0.004,0.0337 l 2.487271,0.16212 -1.53549,-5.23857 -6.68432,-7.948731 -13.006811,0.180512 -5.690611,14.542659 4.203002,-0.6829 c -0.0222,-0.14242 -0.034,-0.286531 -0.0347,-0.430631 5e-5,-1.596128 1.293929,-2.889959 2.889999,-2.889959 1.08999,7.9e-5 2.087141,0.61364 2.578819,1.586349 0.14074,2.530001 2.232811,4.50972 4.766731,4.510741 z"
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.45298" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       id="g1319-9-7"
+       transform="matrix(0.63913123,0.16437288,-0.16437288,0.63913123,-146.32357,-494.299)">
+      <path
+         style="fill:#0083ec;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 571.02287,748.90534 c 0,0 7.17448,3.77112 8.45199,6.56254 2.21297,6.39287 -4.20787,7.72634 -5.92767,2.69925 -1.71979,-5.02708 -2.52432,-9.26179 -2.52432,-9.26179 z"
+         id="path1300-58-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#00b4ec;fill-opacity:1;stroke:none;stroke-width:0.208608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 571.02288,748.90534 c 0,0 5.65664,2.9733 6.66388,5.17417 1.7448,5.04039 -3.31765,6.09175 -4.67361,2.12819 -1.35595,-3.96355 -1.99027,-7.30236 -1.99027,-7.30236 z"
+         id="path1300-5-4-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_cry.png"
+       id="g1319-9-7-7"
+       transform="matrix(-0.63913123,0.16437288,0.16437288,0.63913123,275.29026,-493.28734)">
+      <path
+         style="fill:#0083ec;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 571.02287,748.90534 c 0,0 7.17448,3.77112 8.45199,6.56254 2.21297,6.39287 -4.20787,7.72634 -5.92767,2.69925 -1.71979,-5.02708 -2.52432,-9.26179 -2.52432,-9.26179 z"
+         id="path1300-58-2-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#00b4ec;fill-opacity:1;stroke:none;stroke-width:0.208608px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 571.02288,748.90534 c 0,0 5.65664,2.9733 6.66388,5.17417 1.7448,5.04039 -3.31765,6.09175 -4.67361,2.12819 -1.35595,-3.96355 -1.99027,-7.30236 -1.99027,-7.30236 z"
+         id="path1300-5-4-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>

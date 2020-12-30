@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg46543"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="sugaroid-genie.svg">
+  <defs
+     id="defs46537" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="177.98648"
+     inkscape:cy="307.65764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata46540">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g47144"
+       transform="matrix(0.67591456,0,0,0.67591456,129.04251,-825.83306)">
+      <circle
+         style="fill:#ff004b;fill-opacity:1;stroke-width:0.264583"
+         id="path826-4-66-45"
+         cx="-96.387428"
+         cy="1317.0696"
+         r="89.936195"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png" />
+      <g
+         transform="translate(-410.27653,1204.8865)"
+         id="g1002-2-9"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <circle
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           r="93.677971"
+           cy="112.18314"
+           cx="313.67911"
+           id="path826-3-46-0-5"
+           style="fill:#acac00;fill-opacity:0;stroke-width:0.275591" />
+        <circle
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           r="93.677971"
+           cy="112.44772"
+           cx="314.45605"
+           id="path826-3-4-4-5"
+           style="fill:#0f3000;fill-opacity:0;stroke-width:0.275591" />
+        <path
+           sodipodi:nodetypes="aaaa"
+           inkscape:connector-curvature="0"
+           id="path894-8-0-0"
+           d="m 311.64137,52.260417 c -34.784,0.464848 -73.94392,56.493923 -57.45238,87.123513 18.69522,34.72246 100.07698,34.96918 118.30654,0 16.37519,-31.41198 -25.43333,-87.596872 -60.85416,-87.123513 z"
+           style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="aaaa"
+           inkscape:connector-curvature="0"
+           id="path894-83-4"
+           d="m 311.37627,52.260212 c -30.2398,0.432739 -64.28385,52.591648 -49.94677,81.105518 16.25286,32.32403 87.00288,32.5537 102.85092,0 14.23593,-29.24222 -22.11071,-81.54618 -52.90415,-81.105518 z"
+           style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.238023px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <circle
+           r="15.024553"
+           cy="125.68229"
+           cx="285.27753"
+           id="path896-1-1-1"
+           style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562" />
+        <circle
+           r="11.055803"
+           cy="125.68229"
+           cx="285.27753"
+           id="path896-2-4"
+           style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+        <circle
+           r="15.024553"
+           cy="125.41772"
+           cx="340.84003"
+           id="path896-1-2-8-0"
+           style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562" />
+        <circle
+           r="11.055803"
+           cy="125.68229"
+           cx="340.46204"
+           id="path896-4-6-6"
+           style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583" />
+      </g>
+      <ellipse
+         style="fill:#000000;fill-rule:evenodd;stroke-width:0.459412"
+         id="path2099-8"
+         cx="-126.85013"
+         cy="1332.1178"
+         rx="6.2020736"
+         ry="6.316927"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         id="path2105-3"
+         cx="-65.84803"
+         cy="1326.33"
+         rx="1.9182292"
+         ry="1.984375"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#000000;fill-rule:evenodd;stroke-width:0.459412"
+         id="path2099-1-9"
+         cx="-71.339577"
+         cy="1332.679"
+         rx="6.2020736"
+         ry="6.316927"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
+         id="path2105-1-66"
+         cx="-121.47667"
+         cy="1325.3378"
+         rx="1.9182293"
+         ry="1.984375"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.566878"
+         id="path2105-1-6-3"
+         cx="-128.22356"
+         cy="1334.5983"
+         rx="4.1098614"
+         ry="4.2515802"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.582083"
+         id="path2105-1-6-5-27"
+         cx="-73.202789"
+         cy="1335.074"
+         rx="4.2201047"
+         ry="4.3656249"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#7a0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -127.6531,1292.2705 c 0,0 20.1836,-7.328 29.828134,-7.7968 9.644533,-0.4688 25.102179,4.1445 25.102179,4.1445 l 18.527972,8.2697 -26.759664,-25.068 -19.282601,2.0912 z"
+         id="path39743"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:connector-curvature="0"
+         id="path39944-2"
+         d="m -66.881187,1294.1313 c 0,0 -18.52291,-3.5128 -28.656999,-4.1819 -10.134064,-0.6692 -33.856474,7.0818 -33.856474,7.0818 0,0 1.93022,-7.6212 17.23581,-13.4705 15.305574,-5.8495 32.160619,-3.7922 39.462492,1.595 7.301881,5.3873 5.815171,8.9756 5.815171,8.9756 z"
+         style="fill:#390000;fill-opacity:1;stroke:none;stroke-width:0.349132px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         inkscape:connector-curvature="0"
+         id="path39944-4"
+         d="m -131.96987,1296.9933 c 0,0 17.394,-6.0694 27.0906,-8.176 9.696604,-2.1069 33.735226,1.9895 33.735226,1.9895 0,0 -2.961479,-7.1067 -18.59313,-10.5717 -15.631656,-3.4651 -31.623266,0.9539 -37.904386,7.2246 -6.2811,6.2708 -4.32831,9.5336 -4.32831,9.5336 z"
+         style="fill:#740000;fill-opacity:1;stroke:none;stroke-width:0.341546px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#c80000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -119.39682,1291.0866 c 0,0 12.82493,-4.1499 19.918374,-5.4061 7.093428,-1.2562 24.269315,3.3469 24.269315,3.3469 0,0 -1.826069,-6.0343 -12.959884,-9.6911 -11.133811,-3.6569 -22.873765,-0.803 -27.684095,4.0734 -4.81033,4.8765 -3.54371,7.6769 -3.54371,7.6769 z"
+         id="path39944"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#c80000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -96.693956,1245.7447 c 9.227336,6.462 20.7937,7.4663 25.108194,10.7378 4.314489,3.2713 9.353119,6.3004 6.672414,10.3629 -2.680701,4.0623 -9.789809,0.6939 -12.083683,0.1001 -31.676709,-9.3016 -23.947609,-9.8605 -24.034389,-12.0716 3.238304,-5.8062 -1.33097,-4.3392 4.337464,-9.1292 z"
+         id="path39764-5-1-1-1-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccc" />
+      <g
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         id="g39815-4"
+         transform="matrix(-0.98007369,-0.12935057,-0.15404886,1,-98.771636,-88.748822)">
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -207.97405,1315.819 c -10.2228,5.1396 -46.01155,11.0175 -50.83,13.6657 -4.81844,2.6481 -10.32371,4.9651 -8.26883,9.2934 2.05491,4.3281 9.68294,1.9463 12.06827,1.6611 2.38534,-0.2855 42.63695,-11.2116 45.04621,-13.1149 2.40925,-1.9033 12.10464,-0.1133 13.9172,-7.6529 -11.93285,-3.8524 -4.01123,-7.9379 -11.93285,-3.8524 z"
+           id="path39764-5-1-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csscscc" />
+        <path
+           sodipodi:nodetypes="zsscsscz"
+           inkscape:connector-curvature="0"
+           id="path39764-5-1"
+           d="m -216.94734,1321.291 c -9.90123,5.7244 -45.30997,13.6869 -49.96296,16.61 -4.65299,2.923 -10.01284,5.5563 -7.69258,9.7504 2.32027,4.1939 9.79781,1.3713 12.16437,0.9468 2.36656,-0.4248 41.92515,-13.6821 44.21603,-15.721 2.29086,-2.039 12.0915,-0.8243 13.43905,-8.4469 1.34756,-7.6227 -0.25798,-13.7563 -0.25798,-13.7563 0,0 -2.0047,4.8926 -11.90593,10.617 z"
+           style="fill:#ff2700;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ff4000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -220.72659,1333.0235 c -10.10891,5.1122 -46.47505,12.6271 -51.12804,15.5502 -4.65299,2.923 -10.01284,5.5563 -7.69258,9.7504 2.32027,4.1939 9.79781,1.3713 12.16437,0.9468 2.36656,-0.4248 51.74837,-11.6541 54.36762,-17.0494 1.14215,-2.3526 1.93991,0.5041 3.28746,-7.1185 1.34756,-7.6227 -0.25798,-13.7563 -0.25798,-13.7563 0,0 -0.63194,6.5647 -10.74085,11.6768 z"
+           id="path39764-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="zsscsscz" />
+        <path
+           sodipodi:nodetypes="csscscc"
+           inkscape:connector-curvature="0"
+           id="path39764-5-1-1-1"
+           d="m -214.19401,1316.0522 c -10.2228,5.1396 -28.80641,3.4483 -33.62487,6.0965 -4.81844,2.6481 -10.3237,4.9651 -8.26882,9.2934 2.05491,4.3281 9.68293,1.9463 12.06827,1.6611 2.38533,-0.2855 42.63695,-11.2116 45.04621,-13.1149 2.40925,-1.9033 -10.75393,4.842 -8.94137,-2.6976 4.59896,-20.9779 1.64221,-5.324 -6.27942,-1.2385 z"
+           style="fill:#e00000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(7.1066744,-24.245065)"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         id="g39815">
+        <path
+           style="fill:#c80000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -99.78597,1273.9663 c 0,0 -41.11417,14.24 -45.99633,17.1192 -4.88216,2.8792 -10.46155,5.4701 -8.36939,9.6227 2.09219,4.1525 9.82445,1.3793 12.24322,0.9651 2.41879,-0.4143 39.29412,-16.931 41.73416,-18.9417 2.440031,-2.0105 3.050686,0.3805 7.837043,-5.864 4.715659,-6.1523 -1.065984,-10.1882 -1.065984,-10.1882 z"
+           id="path39764-6-1-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cssssscc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path39764-6-1"
+           d="m -106.00693,1281.3918 c 0,0 -40.79116,15.1405 -45.60884,18.1264 -4.81768,2.9858 -10.33874,5.6988 -8.15578,9.8044 2.18298,4.1054 8.8398,-0.078 11.24889,-0.5451 2.40909,-0.4674 44.98162,-13.2951 45.31298,-16.4394 0.38141,-3.6194 1.51871,-1.3954 4.713444,-8.2094 3.29064,-7.0185 -1.289734,-10.1624 -1.289734,-10.1624 z"
+           style="fill:#e00000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           sodipodi:nodetypes="cssssscc" />
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -113.56983,1287.1399 c 0,0 -39.03558,19.2192 -43.52385,22.6805 -4.48827,3.4613 -9.70407,6.7229 -7.11403,10.5846 2.59005,3.8616 9.91963,0.1528 12.26854,-0.5576 2.34891,-0.7105 41.22904,-18.675 43.40147,-20.9722 2.17242,-2.2971 1.84048,-2.0764 2.71839,-9.7782 0.87792,-7.7018 -2.31878,-9.978 -2.31878,-9.978 z"
+           id="path39764-6"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path39764"
+           d="m -115.09427,1296.1991 c 0,0 -39.03558,19.2192 -43.52385,22.6805 -4.48827,3.4613 -9.70407,6.7229 -7.11403,10.5846 2.59005,3.8616 9.91963,0.1528 12.26854,-0.5576 2.34891,-0.7105 41.22904,-18.675 43.40147,-20.9722 2.17242,-2.2971 1.84048,-2.0764 2.71839,-9.7782 0.87792,-7.7018 -2.31878,-9.978 -2.31878,-9.978 z"
+           style="fill:#ff2700;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#00fff8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -99.772236,1278.1006 c 0,0 -10.709244,-17.271 -7.230474,-27.6875 3.47877,-10.4166 13.376964,-8.3926 14.169931,-15.7422 0.79297,-7.3496 0.310547,-7.4629 0.310547,-7.4629 0,0 10.808097,13.4565 9.134766,20.8301 -1.673331,7.3736 -6.241238,7.6494 -10.49074,17.5503 -4.2495,9.9009 -5.89403,12.5122 -5.89403,12.5122"
+         id="path39745"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#009cff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -98.700796,1273.1254 c 0,0 -0.97712,-13.6686 1.27709,-17.8067 2.2542,-4.1381 9.177326,-6.2309 9.050784,-11.3013 -0.126543,-5.0704 -4.14931,-16.8094 -4.14931,-16.8094 0.240445,-0.14 7.829183,11.3943 8.628822,14.5835 0.812254,3.2396 1.555207,7.4613 -0.99447,10.8395 -2.163605,2.8667 -7.054419,9.1037 -8.118499,11.2284 -1.05679,2.1102 -4.303157,9.7536 -4.303157,9.7536 z"
+         id="path39919"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscssscc" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#ff6d00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.357155"
+         id="path39747-6-1"
+         cx="-99.524147"
+         cy="1275.8687"
+         rx="6.1792288"
+         ry="5.9605107" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         ry="5.5629516"
+         rx="5.7670813"
+         cy="1275.4711"
+         cx="-99.936295"
+         id="path39747-6"
+         style="fill:#daff00;fill-opacity:1;fill-rule:evenodd;stroke-width:0.333332" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         style="fill:#d10000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.235035"
+         id="path39747"
+         cx="-99.936295"
+         cy="1275.4711"
+         rx="4.0664101"
+         ry="3.9224768" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         ry="3.1400797"
+         rx="3.2553036"
+         cy="1275.0989"
+         cx="-99.744179"
+         id="path39747-99"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.188154" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_genie.png"
+         ry="1.588275"
+         rx="1.6465559"
+         cy="1274.0505"
+         cx="-98.958992"
+         id="path39747-9"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0951695" />
+    </g>
+  </g>
+</svg>
