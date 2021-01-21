@@ -52,7 +52,6 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        r="61.047852"
@@ -63,11 +62,10 @@
     <g
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid.png"
        id="g1002-05"
        transform="matrix(0.67879066,0,0,0.67879066,-148.93655,-11.935863)">
       <circle
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#acac00;fill-opacity:0;stroke-width:0.275591"
          id="path826-3-46-81"
          cx="313.67911"
@@ -76,7 +74,7 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
       <circle
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#0f3000;fill-opacity:0;stroke-width:0.275591"
          id="path826-3-4-7"
          cx="314.45605"
@@ -87,7 +85,7 @@
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 311.64137,52.260417 c -34.784,0.464848 -73.94392,56.493923 -57.45238,87.123513 18.69522,34.72246 100.07698,34.96918 118.30654,0 16.37519,-31.41198 -25.43333,-87.596872 -60.85416,-87.123513 z"
          id="path894-8-53"
@@ -96,7 +94,7 @@
       <path
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.238023px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 311.37627,52.260212 c -30.2398,0.432739 -64.28385,52.591648 -49.94677,81.105518 16.25286,32.32403 87.00288,32.5537 102.85092,0 14.23593,-29.24222 -22.11071,-81.54618 -52.90415,-81.105518 z"
          id="path894-15"
@@ -105,7 +103,7 @@
       <circle
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562"
          id="path896-1-9"
          cx="285.27753"
@@ -114,7 +112,7 @@
       <circle
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583"
          id="path896-79"
          cx="285.27753"
@@ -123,7 +121,7 @@
       <circle
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#0073ff;fill-opacity:1;stroke:none;stroke-width:0.359562"
          id="path896-1-2-89"
          cx="340.84003"
@@ -132,7 +130,7 @@
       <circle
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.264583"
          id="path896-4-4"
          cx="340.46204"
@@ -141,7 +139,7 @@
       <ellipse
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_o.png"
+
          ry="7.2193451"
          rx="7.4839282"
          style="fill:#00002d;fill-opacity:1;stroke:none;stroke-width:0.175908"
