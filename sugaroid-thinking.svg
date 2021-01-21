@@ -52,7 +52,6 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid.png"
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
        r="61.047852"
@@ -63,7 +62,6 @@
     <g
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid.png"
        id="g1002-1"
        transform="matrix(0.67879066,0,0,0.67879066,-148.89197,-12.556308)">
       <circle
@@ -103,7 +101,6 @@
       <circle
          inkscape:export-ydpi="96"
          inkscape:export-xdpi="96"
-         inkscape:export-filename="/home/ss/repo/sugaroid/sugaroid/gui/ui/sugaroid_eye_think_circle_dashed.png"
          style="fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:3.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.9, 7.8;stroke-dashoffset:0;stroke-opacity:1"
          id="path896-7-5"
          cx="285.27753"
